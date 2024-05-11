@@ -1,0 +1,1 @@
+There is an explanation accompanying this project in _pdf_ form.
